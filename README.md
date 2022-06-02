@@ -43,7 +43,7 @@ Training data was split into train and validation datasets in the ratio 80% to 2
 - Misclassification of test images were further investigated using saliency maps. One of the potential reasons for stage 3 model misclassifications specifically was due to subjective labelling of intensity of damaged cars.
 
 - Lastly,  web app was designed using streamlit for ease of exploration.
-![streamlit app demo](https://drive.google.com/file/d/1x5h329jL8IR_8kv7pHuL0hG-4-uImLMM/view?usp=sharing)
+[![streamlit app demo](https://github.com/bhaskarbharat/car-damage-assessment/blob/main/images/app-demo.jpg)](https://drive.google.com/file/d/1x5h329jL8IR_8kv7pHuL0hG-4-uImLMM/view?usp=sharing)
 
 ## Future Work Recommendations for Model Improvement
 
